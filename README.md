@@ -47,8 +47,7 @@ A real-world data engineering project that transforms manual Excel reporting int
 
 ## 🧠 Arabic Dialect Classification – NLP Senior Project
 
-🔗 Repository: (add link here)  
-📄 Report: (add link here)
+🔗 Repository: ([View full project here](https://github.com/shahadalmutairi863/Arabic-Dialect-Classification_Project.git))  
 
 ### 💡 Summary
 A Natural Language Processing project focused on classifying Arabic dialects using classical ML and transformer-based models.
