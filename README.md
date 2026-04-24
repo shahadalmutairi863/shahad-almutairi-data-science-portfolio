@@ -26,9 +26,7 @@ Each project demonstrates my ability to transform raw data into actionable insig
 
 ## 🚑 Saudi Red Crescent Authority (SRCA) – Data Engineering & BI Pipeline
 
-🔗 Repository: (add link here)  
-📊 Dashboard: (add link here)  
-📄 Report: (add link here)
+🔗 Repository: ([add link here](https://github.com/shahadalmutairi863/Arabic-Dialect-Classification_Project.git))  
 
 ### 💡 Summary
 A real-world data engineering project that transforms manual Excel reporting into an automated real-time analytics system for humanitarian operations.
