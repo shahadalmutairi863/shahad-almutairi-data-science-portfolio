@@ -1,9 +1,8 @@
-# shahad-almutairi-data-science-portfolio
-Real-world Data Science projects focused on building automated pipelines, ML models, and BI dashboards for decision-making.
 # 🚀 Shahad Almutairi – Data Science Portfolio
+Real-world Data Science projects focused on building automated pipelines, ML models, and BI dashboards for decision-making.
 
 👩‍💻 Data Science Graduate | Data Analyst | Aspiring Data Scientist  
-📍 University of Jeddah – Applied College (Diploma in Data Science 2025–2026)
+📍 University of Jeddah – Applied College (Diploma in Data Science 2023–2026)
 
 ---
 
