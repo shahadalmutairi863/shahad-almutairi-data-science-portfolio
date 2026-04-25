@@ -104,14 +104,6 @@ A Natural Language Processing project focused on classifying Arabic dialects usi
 
 ---
 
-## 📬 Contact
-
-📧 Email: (add email)  
-💼 LinkedIn: (add link)  
-🐙 GitHub: (add profile link)
-
----
-
 ## 🚀 Goal
 
 To work as a Data Scientist / Data Analyst building scalable, impactful, and production-ready data solutions that support real-world decision-making.
